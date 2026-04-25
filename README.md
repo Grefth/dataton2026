@@ -56,6 +56,21 @@ Conecta educación con ingreso laboral para justificar la inversión en retenci�
 
 ---
 
+
+### Fuentes de datos
+
+| Fuente | Dependencia | URL | Archivos relacionados |
+|---|---|---|---|
+| Portal de Datos Abiertos — Educación | Gobierno de México (datos.gob.mx) | [datos.gob.mx](https://www.datos.gob.mx/dataset/?groups=educacion&res_format=CSV) | `absorcionPrepa.CSV`, `absorcionPrimaria.CSV`, `absorcionSecuendaria.CSV`, `absorcionUniversidad2000-2025.csv`, `matriculacion*.CSV` |
+| SIGED — Sistema de Información y Gestión Educativa | SEP (Secretaría de Educación Pública) | [siged.sep.gob.mx](https://siged.sep.gob.mx/SIGED/mapa1.html) | `absorcionPrepa.CSV`, `absorcionPrimaria.CSV`, `absorcionSecuendaria.CSV`, `absorcionUniversidad2000-2025.csv`, `entidadFederativa.csv`, `matriculacion*.CSV` |
+| SNIEG — Catálogo Nacional de Indicadores | INEGI / SNIEG | [snieg.mx](https://www.snieg.mx/cni/indicadores.aspx?idOrden=1.1) | `Natalidad_2010_2024.csv`, `gradoPromedioEntre15+.csv`, `areaGeografica.csv` |
+| Beneficiarios de Becas o Estímulos Educativos | Gobierno del Estado de Sonora (datos.sonora.gob.mx) | [datos.sonora.gob.mx](https://datos.sonora.gob.mx/dataset/Beneficiarios%20de%20becas%20o%20est%C3%ADmulos%20educativos) | `becas/` (carpeta de becas) |
+| ENOE — Encuesta Nacional de Ocupación y Empleo (15+) | INEGI | [inegi.org.mx/enoe](https://www.inegi.org.mx/programas/enoe/15ymas/) | `PoblaciónEconomicaActiva15+.csv`, `IdentificadoresPoblaciónEconomicaActiva15+.csv`, archivos `fuerzaLaboral/` |
+| Buscador INEGI — Población Económicamente Activa | INEGI | [inegi.org.mx/buscador PEA](https://www.inegi.org.mx/app/buscador/default.html?q=Poblaci%C3%B3n+Econ%C3%B3micamente+Activa) | `PoblaciónEconomicaActiva15+.csv`, `IdentificadoresPoblaciónEconomicaActiva15+.csv` |
+
+---
+
+
 ## Propuestas de política
 
 1. **Focalizar recursos** en municipios con peor asistencia escolar (identificados en Dashboard 3)
